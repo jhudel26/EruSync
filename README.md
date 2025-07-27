@@ -1,4 +1,4 @@
-# Excel Consolidator
+# EruSync
 
 A GUI application that allows users to consolidate multiple sheets from an Excel file into a single sheet, with the ability to specify the header row.
 
